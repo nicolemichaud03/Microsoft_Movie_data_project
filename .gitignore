@@ -1,6 +1,6 @@
 # Data
 /data
 
-#Junk files
-.DS_Store
+# Junk Files
+.DS_Stores
 .ipynb_checkpoints
