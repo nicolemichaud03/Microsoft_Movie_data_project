@@ -1,13 +1,11 @@
 # Overview
 
-<img src="Data/cinema-art.jpg" alt="Cinema Art image" style="width:600px;height:300px;">
-[Cinema Art Image]("Data/cinema-art.jpg")
+[Cinema Art Image](Data/cinema-art.jpg)
    Microsoft wants to create their own original video content as part of their new movie studio. In order to do so, they need to know what types of movies are most successful right now and what it is that is making them so successful. Through analyzing data on a wide range of movies from various sources, this project will show which genres of movies have done the best, whether movies are more likely to be known for having a famous actor/actress, writer, or director, and whether higher production budgets are related to higher profits. This information will not only be able to provide Microsoft with valuable advice about the types of movies that they should focus their efforts on, but also how important it is that they set aside a large production budget for a movie, and whether it is more important to hire a well-known actor/actress, writer, or director in order to get their movie the most attention.
 
 # Business Understanding
 
-<img src="Data/movie_theater_1400.jpg" alt="Movie theater image" style="width:600px;height:300px;" >
-[Movie Theatre Image]("Data/movie_theater_1400.jpg")
+[Movie Theatre Image](Data/movie_theater_1400.jpg)
 )Microsoft may have better chances of success with their new movie venture by creating movies in the genres that are doing well, allocating an appropriate budget to the project, and hiring a well known director to attract people to watch their movies. 
 
 # Data Understanding
@@ -28,14 +26,13 @@ To determine if the most movies that were known for someone were known for an ac
 # Exploratory Data analysis
 
 Of the movies in the IMDB database that were known for either an actor/actress, writer, or director, they were most often known for a director, and least often known for an actor or actress.
-<img src="Data/highprofitgenres.png" alt="knownforgraph.png">
-[Known For Graph]("Data/highprofitgenres.png")
+[Known For Graph](Data/highprofitgenres.png)
+
 For the movies in the TN database, the majority of movies still had a low budget (less than 100,000,000 dollars) and a low profit (less than 500,000,000 dollars). However, the ones that had a higher budget did also earn higher profits on average.
-<img src="Data/highprofitgenres.png" alt="budgetvsprofit.png">
-[Budget vs. Profit graph]("Data/highprofitgenres.png")
+[Budget vs. Profit graph](Data/highprofitgenres.png)
+
 Out of all of the movies that were in both the TN and TMDB databases that earned higher than the median profit, the most common genre was drama, followed by comedy, action, and then thriller.
-<img src="Data/highprofitgenres.png" alt="High profit genres graph">
-[High Profit Genres Graph]("Data/highprofitgenres.png")
+[High Profit Genres Graph](Data/highprofitgenres.png)
 
 # Conclusion
 
@@ -43,8 +40,7 @@ Based on the analysis of the data examined in this project, in order to have the
 - Focus on creating movies that are in the drama, comedy, action or thriller genres (or a combination)
 - Allocate an appropriate production budget to their movies, ideally greater than 50,000,000 dollars
 - Focus some of the budget on hiring a well-known director to attract more attention to the movie
-<img src="Data/pexels.jpg" alt="Movie take image" style="width:600px;height:300px;">
-[Movie Take Image]("Data/pexels.jpg")
+[Movie Take Image](Data/pexels.jpg)
 
 ## Limitations
 
