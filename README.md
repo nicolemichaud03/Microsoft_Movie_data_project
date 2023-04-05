@@ -1,6 +1,6 @@
 # Overview
 
-<img src="Images/cinema-art.jpg" alt="Cinema Art" Style="height: 400px; width: 600px; text-align: center; display: block;">
+<img src="Images/cinema-art.jpg" alt="Cinema Art" Style="text-align: center; display: block;">
      
    Microsoft wants to create their own original video content as part of their new movie studio. In order to do so, they need to know what types of movies are most successful right now and what it is that is making them so successful. Through analyzing data on a wide range of movies from various sources, this project will show which genres of movies have done the best, whether movies are more likely to be known for having a famous actor/actress, writer, or director, and whether higher production budgets are related to higher profits. This information will not only be able to provide Microsoft with valuable advice about the types of movies that they should focus their efforts on, but also how important it is that they set aside a large production budget for a movie, and whether it is more important to hire a well-known actor/actress, writer, or director in order to get their movie the most attention.
 
