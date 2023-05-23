@@ -28,10 +28,10 @@ After the duplicate columns were removed from the data and the columns were name
 # Exploratory Data analysis
 
 Of the movies in the IMDB database that were known for either an actor/actress, writer, or director, they were most often known for a director, and least often known for an actor or actress.
-![Known For Graph](Images/highprofitgenres.png)
+![Known For Graph](Images/knownforgraph.png)
 
 For the movies in the TN database, the majority of movies still had a low budget (less than 100,000,000 dollars) and a low profit (less than 500,000,000 dollars). However, the ones that had a higher budget did also earn higher profits on average.
-![Budget vs. Profit graph](Images/highprofitgenres.png)
+![Budget vs. Profit graph](Images/budgetvsprofit.png)
 
 Out of all of the movies that were in both the TN and TMDB databases, the top five movie genres that received the highest profits were action, adventure, comedy, drama, and fantasy.
 ![High Profit Genres Graph](Images/highest_profit_genres.png)
